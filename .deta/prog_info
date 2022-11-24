@@ -1,0 +1,1 @@
+{"id":"e9c98c39-13c4-4c5c-941b-e77c6bb9f8d0","space":39598,"runtime":"nodejs14.x","name":"dialogfuncts-node","path":"1ey4yx","project":"d0c3ft5y","account":"144798365827","region":"ap-south-1","deps":["actions-on-google@^3.0.0","body-parser@^1.20.1","express@^4.18.2"],"envs":null,"public":true,"log_level":"off","cron":""}
